@@ -1,5 +1,5 @@
 # SACAC Exploratory Data Analysis workshop
-Repository to host the SACAC Exploratory Data Analysis workshop files (25 March 2024)
+Repository to host the SACAC Exploratory Data Analysis workshop files (23 May 2025)
 
 ## Setup
 
@@ -14,7 +14,7 @@ The `clone-repo` file will guide you through the process of cloning the repo to 
 
 ### Checking your setup in Google Colab
 After you have cloned the repo to your Google Drive, we suggest you run the `test-setup` notebook to make sure everything is running correctly. 
-1. Go to your [Google Drive](https://drive.google.com/) and navigate to the SACAC-EDA-2024 folder you've just cloned.
+1. Go to your [Google Drive](https://drive.google.com/) and navigate to the SACAC-EDA-2025 folder you've just cloned.
 2. Go to `/examples` and open the `test_setup` notebook
 3. Make sure to edit the path in the first cell of the notebook, as explained in the instructions.
 4. You should be able to run all cells in the notebook
@@ -29,17 +29,12 @@ The data used during the workshop is not hosted on GitHub. Please see the `READM
 * Challenging process data characteristis
 * Data visualization
 * Data cleaning (removal, smoothing, replacement, downsampling)
-* Moving averages, exponential moving average --> rolling window noise removal
-* Missing values --> covered above
-* Omit for this addition: Autocorrelation
-* Done: Other visualisations? Scatter plots?
-* Omit for this addition: Granger Causality
-* Omit for this addition: Steady-state detection 
+* Moving averages, exponential moving average
 
 ### Dimensionality reduction
 *	Principal component analysis
 *	Manifold learning
-*	Auto associative network / Autoencoders (bonus content)
+*	Autoencoders (bonus content)
 
 ### Clustering
 *	K-means clustering
@@ -48,5 +43,5 @@ The data used during the workshop is not hosted on GitHub. Please see the `READM
 
 ### Model interpretation (w/ tree-based methods)
 *	Decision tree introduction
-*	Variable importance + partial dependence
-*	Omit for this edition of the workshop: SHAP
+*	Variable importance and partial dependence
+*	SHAP analysis (bonus content)
