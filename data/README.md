@@ -1,5 +1,5 @@
 # SACAC EDA workshop - access to data
-Repository to host the SACAC Exploratory Data Analysis workshop files (25 March 2024)
+Repository to host the SACAC Exploratory Data Analysis workshop files (23 May 2025)
 
 GitHub is not an appropriate platform to host data. All the datasets used in this workshop can be accessed from the following [Google Drive link](https://drive.google.com/file/d/1znDhqDdkzqc2MeZwCpWly3YvjMvUarei/view?usp=drive_link). 
 
